@@ -1,6 +1,5 @@
-CS 270 Project 1: Input Conversion to ASCII
+Input Conversion to ASCII
 Author: Bobby Bose
-NOTE: CS 270 Lab 1 was used as a reference when writing the line reading and hex conversion.
 
 Instructions on compiling: Type "make" or "make run" to compile and run program.
                            OR just type "make transform" to only compile.
